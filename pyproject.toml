@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "twita"
-version = "0.0.1"
+version = "0.0.2"
 description = "Twitter Hidden API Library"
 authors = ["DaRekaze <darekaze@gmail.com>"]
 license = "LGPL-3.0-or-later"
